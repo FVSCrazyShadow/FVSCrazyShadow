@@ -1,5 +1,8 @@
 - 👋 hello : string = 'Hi, im Nardi'; // Bernardo Crespo González
-- 👀 Building(){ /*TODO: Build it*/ }
+- 👀 Building()
+     { 
+      toDo : string = 'Build it';
+     }
 
 <!---
 FVSCrazyShadow/FVSCrazyShadow is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
